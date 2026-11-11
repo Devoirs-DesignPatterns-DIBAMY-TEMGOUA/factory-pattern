@@ -1,6 +1,6 @@
 package Produit;
 
-public class ProduitD {
+public class ProduitD extends Produit{
 
     public void methodeproduit(){
         System.out.println("je suis un produit de type D");
